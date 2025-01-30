@@ -1,7 +1,7 @@
 # SvelteBasic
 
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [Svelte](https://https://svelte.dev/) apps in minutes. Use this repo to build and customize a new static site.
+[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build [Svelte](https://https://svelte.dev/) apps in minutes. Use this repo to build and customize a new static site. testing for adding a text
 
 ## Get started
 
